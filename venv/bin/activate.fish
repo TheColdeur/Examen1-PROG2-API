@@ -29,7 +29,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/afryan/IdeaProjects/python-api-mini-calendar/venv"
+set -gx VIRTUAL_ENV "/Users/afryan/IdeaProjects/hello-word-api-python/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
